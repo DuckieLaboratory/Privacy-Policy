@@ -1,4 +1,4 @@
-# Privacy Policy for Duckie
+# Privacy Policy for Wild Hunter
 
 This Privacy Policy informs you of our policies regarding the information collected when you use the Service. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
@@ -10,7 +10,6 @@ We collect certain information from our users, which is securely saved and prote
 
 - Discord Username.
 - Discord User ID.
-- Guild ID.
   
 ### How we use your information:
 
@@ -20,7 +19,7 @@ Discord usernames may be displayed in leaderboards and other features of the Bot
 
 ### Contact
 
-For any concerns about this Policy or the Bot's operation, please use the following email contact: support@duckie.xyz
+For any concerns about this Policy or the Bot's operation, please use the following email contact: support@wildhunter.xyz
 
 Any of this data, besides the **Discord User ID** (which is kept solely for preventing exploits), can be requested to be removed through our "/account delte" command. By doing this, all your data will be removed from the database.
 
